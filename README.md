@@ -1,11 +1,6 @@
-# CS-725-Project-Code
-## Project Title: Heart Disease prdiction and seriousness calculation.
-Team:
-1. Ayush Singh Chauhan (213059001)
-2. Karnika Shivhare (204050010)
-3. Krishnakant Bhatt (21Q050016)
+#Project Title: Heart Disease Prdiction and Seriousness Calculation.
 
-This repo contain the code files for CS 725 project.
+This repository contain the code files for the project.
 
 ## There is a ipython notebook which consists code for:
 1. Implementation of all the models.
