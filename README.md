@@ -1,4 +1,4 @@
-#Project Title: Heart Disease Prdiction and Seriousness Calculation.
+# Project Title: Heart Disease Prdiction and Seriousness Calculation.
 
 This repository contain the code files for the project.
 
